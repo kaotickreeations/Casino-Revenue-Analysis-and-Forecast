@@ -39,3 +39,5 @@ Streamline Payment Systems: Invest in cost-effective, efficient payment solution
 Expand High-Value Promotions: Experiment with larger promotional campaigns to assess their impact on revenue growth, balancing risk and potential reward.
 
 Summary Conclusion: The analysis highlights the pivotal role of promotions, wagering activity, and payment systems in driving revenue growth. The Random Forest regression model underscores the accuracy of these drivers, while the revenue forecast offers optimism for sustained growth in 2025/26. By aligning strategies with these insights, casino operators can optimize performance, address risks, and capitalize on growth opportunities.
+
+https://public.tableau.com/views/CasinoRevenueDashboardInsightsForecastsandTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
