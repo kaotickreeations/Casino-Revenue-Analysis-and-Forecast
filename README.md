@@ -1,5 +1,5 @@
 # Casino-Revenue-Analysis-and-Forecast
-Python, EDA, Random Forest Regression
+Python, EDA, Decision Trees, Random Forest Regression
 
 Comprehensive Summary: Casino Revenue Analysis and Forecast After conducting thorough Exploratory Data Analysis (EDA), leveraging a Random Forest regression model, and forecasting future revenues, we have arrived at the following insights and actionable conclusions:
 
